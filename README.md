@@ -1,2 +1,0 @@
-# PixelSpace
-estudo GDEVELOP
